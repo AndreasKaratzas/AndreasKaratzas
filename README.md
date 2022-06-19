@@ -5,8 +5,8 @@
 
 * 🔭 Motivated by problems that are simple and therefore understandable,
 yet equally complex and therefore interesting.
-* 👯 I’m looking to collaborate on any interesting ML project requiring both software and machine learning skills.
-* 📫 How to reach me **andreaskaratzas@protonmail.com**
+* 👯 I'm looking to collaborate on any interesting project that lie at the interface of artificial intelligence and embedded systems.
+* 📫 How to reach me **andreas.karatzas@siu.edu**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasKaratzas&show_icons=true&theme=onedark" alt="AndreasKaratzas" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKaratzas&hide=jupyter notebook&langs_count=3&theme=onedark" alt="AndreasKaratzas" /></p>
@@ -16,9 +16,6 @@ yet equally complex and therefore interesting.
 <a href="https://fb.com/andreas.karatzas.8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andreas.karatzas.8" height="30" width="30" /></a>
 
 <!--
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
