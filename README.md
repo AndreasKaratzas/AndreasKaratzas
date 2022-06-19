@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
-<h3 align="center">A computer engineer that is pursuing his doctoral degree on Embedded Systems and Approximate Computing applications.</h3>
+<h3 align="center">A computer engineer and researcher for applications of artificial intelligence on embedded systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreasKaratzas" alt="andreas-karatzas" /> </p>
 
