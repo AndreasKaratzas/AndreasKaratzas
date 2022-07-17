@@ -5,7 +5,7 @@
 
 * 🔭 Motivated by problems that are simple and therefore understandable,
 yet equally complex and therefore interesting.
-* 👯 I'm looking to collaborate on any interesting project that lie at the interface of artificial intelligence and embedded systems.
+* 👯 I'm looking to collaborate on any interesting project that lies at the interface of either artificial intelligence or embedded systems.
 * 📫 How to reach me **andreas.karatzas@siu.edu**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasKaratzas&show_icons=true&theme=onedark" alt="AndreasKaratzas" /></p>
