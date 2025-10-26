@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
-<h3 align="center">A computer engineer and researcher for applications of artificial intelligence on embedded systems.</h3>
+<h3 align="center">A computer engineer and researcher for applications of artificial intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreasKaratzas" alt="andreas-karatzas" /> </p>
 
 * 🔭 Motivated by problems that are simple and therefore understandable,
 yet equally complex and therefore interesting.
-* 👯 I'm looking to collaborate on any interesting project that lies at the intersection of artificial intelligence and embedded systems.
-* 📫 How to reach me **andreas.karatzas@siu.edu**
+* 👯 I'm looking to collaborate on any interesting artificial intelligence project.
+* 📫 How to reach me **andreas.karatzas@protonmail.com**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasKaratzas&show_icons=true&theme=onedark" alt="AndreasKaratzas" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKaratzas&theme=onedark&langs_count=3&hide=jupyter%20notebook" alt="AndreasKaratzas" /></p>
@@ -25,3 +25,4 @@ yet equally complex and therefore interesting.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
