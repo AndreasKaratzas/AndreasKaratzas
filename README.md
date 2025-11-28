@@ -8,7 +8,9 @@ yet equally complex and therefore interesting.
 * 👯 I'm looking to collaborate on any interesting artificial intelligence project.
 * 📫 How to reach me **andreas.karatzas@protonmail.com**
 
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasKaratzas&show_icons=true&theme=onedark" alt="AndreasKaratzas" /></p>
+-->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKaratzas&theme=onedark&langs_count=3&hide=jupyter%20notebook" alt="AndreasKaratzas" /></p>
 
 <p align="center">
@@ -25,4 +27,5 @@ yet equally complex and therefore interesting.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
