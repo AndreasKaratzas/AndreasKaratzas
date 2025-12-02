@@ -10,8 +10,8 @@ yet equally complex and therefore interesting.
 
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasKaratzas&show_icons=true&theme=onedark" alt="AndreasKaratzas" /></p>
--->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKaratzas&theme=onedark&langs_count=3&hide=jupyter%20notebook" alt="AndreasKaratzas" /></p>
+-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andreas-karatzas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AndreasKaratzas" height="30" width="30" /></a>
@@ -27,5 +27,6 @@ yet equally complex and therefore interesting.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
