@@ -5,7 +5,7 @@
 
 * 🔭 Motivated by problems that are simple and therefore understandable,
 yet equally complex and therefore interesting.
-* 👯 I'm looking to collaborate on any interesting artificial intelligence project.
+* 👯 I'm looking to collaborate on any interesting artificial intelligence projects.
 * 📫 How to reach me **andreas.karatzas@protonmail.com**
 
 <!--
@@ -28,6 +28,7 @@ yet equally complex and therefore interesting.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
