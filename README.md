@@ -10,13 +10,14 @@ yet equally complex and therefore interesting.
 
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasKaratzas&show_icons=true&theme=onedark" alt="AndreasKaratzas" /></p>
--->
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKaratzas&theme=onedark&langs_count=3&hide=jupyter%20notebook" alt="AndreasKaratzas" /></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andreas-karatzas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AndreasKaratzas" height="30" width="30" /></a>
 <a href="https://fb.com/andreas.karatzas.8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andreas.karatzas.8" height="30" width="30" /></a>
+-->
 
 <!--
 - 🔭 I’m currently working on ...
@@ -25,9 +26,9 @@ yet equally complex and therefore interesting.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
